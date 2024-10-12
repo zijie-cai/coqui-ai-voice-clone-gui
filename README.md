@@ -21,3 +21,4 @@ Clone the repository and install dependecies:
    git clone https://github.com/zijie-cai/coqui-ai-voice-clone-gui.git
    cd coqui-ai-voice-clone-gui
    pip install -r requirements.txt
+   ```
