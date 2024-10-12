@@ -15,6 +15,15 @@ This project is a better GUI made for creating your own voice clone and speech g
 - **Translate Text**: Select text and translate it into different languages using Google Cloud Translation.
 - **AI Text Generation**: Use Hugging Face models to generate prompts and texts.
 
+## How to Record and Upload WAV
+
+[Click here to watch the video](record.mov)
+
+## How to Generate Speech
+
+[Click here to watch the video](speech.mov)
+
+
 ## Setup
 Clone the repository and install dependecies:
    ```bash
