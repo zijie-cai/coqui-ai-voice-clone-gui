@@ -4,11 +4,11 @@
 
 ## How to Record and Upload WAV
 
-[Click here to watch the video](record.mp4)
+[Click here to watch the video](record.mov)
 
 ## How to Generate Speech
 
-[Click here to watch the video](speech.mp4)
+[Click here to watch the video](speech.mov)
 
 This project is a better GUI made for creating your own voice clone and speech generation allowing for:
 
