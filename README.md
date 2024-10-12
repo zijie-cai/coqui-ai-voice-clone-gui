@@ -1,6 +1,6 @@
 # Coqui AI Voice Clone GUI
 
-This project is a better GUI made for creating your own voice clone and speech generation allowing for:
+This repository contains an advanced GUI made for creating your own voice clone and synthetic speech generation allowing for:
 
 - Text-to-Speech (TTS) generation using Coqui TTS - XTTS-V2.
 - AI-powered text generation using Hugging Face models.
