@@ -1,5 +1,13 @@
 # Coqui AI Voice Clone GUI
 
+## How to Record and Upload WAV
+
+[![How to Record WAV](videos/record_wav_thumbnail.png)](videos/record_wav.mp4)
+
+## How to Generate Speech
+
+[![How to Generate Speech](videos/generate_speech_thumbnail.png)](videos/generate_speech.mp4)
+
 This project is a better GUI made for creating your own voice clone and speech generation allowing for:
 
 - Text-to-Speech (TTS) generation using Coqui TTS - XTTS-V2.
