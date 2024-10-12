@@ -1,7 +1,5 @@
 # Coqui AI Voice Clone GUI
 
-# My Project
-
 ## How to Record and Upload WAV
 
 [Click here to watch the video](record.mov)
