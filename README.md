@@ -1,12 +1,12 @@
 # Coqui AI Voice Clone GUI
 
-This project is a better GUI made for creating your own voice clone and speech generation using `tkinter` and `customtkinter`, allowing for:
+This project is a better GUI made for creating your own voice clone and speech generation allowing for:
 
 - Text-to-Speech (TTS) generation using Coqui TTS - XTTS-V2.
 - AI-powered text generation using Hugging Face models.
 - Language detection and translation using Google Cloud API.
-- Audio recording and playback with `sounddevice`.
-- Multilingual support with dynamic UI updates.
+- Live audio recording and playback.
+- Multilingual support with dynamic UI updates (17 languages in total).
 
 ## Features
 
@@ -15,25 +15,8 @@ This project is a better GUI made for creating your own voice clone and speech g
 - **Translate Text**: Select text and translate it into different languages using Google Cloud Translation.
 - **AI Text Generation**: Use Hugging Face models to generate prompts and texts.
 
-## Dependencies
-
-The project requires the following Python packages:
-
-- `tkinter`
-- `customtkinter`
-- `wave`
-- `sounddevice`
-- `numpy`
-- `huggingface_hub`
-- `translate`
-- `google-cloud-translate`
-- `TTS`
-- `torch`
-- `lingua`
-
 ## Setup
-
-1. Clone the repository:
+Clone the repository and install dependecies:
    ```bash
    git clone https://github.com/zijie-cai/coqui-ai-voice-clone-gui.git
    cd coqui-ai-voice-clone-gui
