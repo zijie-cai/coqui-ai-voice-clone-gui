@@ -1,12 +1,14 @@
 # Coqui AI Voice Clone GUI
 
+# My Project
+
 ## How to Record and Upload WAV
 
-[![How to Record WAV](videos/record_wav_thumbnail.png)](videos/record_wav.mp4)
+[Click here to watch the video](record.mp4)
 
 ## How to Generate Speech
 
-[![How to Generate Speech](videos/generate_speech_thumbnail.png)](videos/generate_speech.mp4)
+[Click here to watch the video](speech.mp4)
 
 This project is a better GUI made for creating your own voice clone and speech generation allowing for:
 
