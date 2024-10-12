@@ -325,7 +325,7 @@ language_options = {
 # Initialize the Hugging Face Inference Client
 client = InferenceClient(
     "HuggingFaceH4/zephyr-7b-beta",
-    token="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",
+    token="", # replace with your free huggingface user token
 )
 
 
