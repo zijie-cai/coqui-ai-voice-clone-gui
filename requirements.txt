@@ -1,0 +1,12 @@
+tkinter
+customtkinter
+sounddevice
+numpy
+huggingface_hub
+translate
+langdetect
+google-cloud-translate
+Pillow
+torch
+TTS
+lingua-language-detector
