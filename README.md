@@ -16,13 +16,12 @@ This project is a better GUI made for creating your own voice clone and speech g
 - **AI Text Generation**: Use Hugging Face models to generate prompts and texts.
 
 ## How to Record and Upload WAV
-
-[Click here to watch the video](record.mov)
+[Click here to watch the video](https://github.com/user-attachments/assets/257d984d-5520-46d3-83e3-d14753319c3a)
 
 ## How to Generate Speech
-
-[Click here to watch the video](speech.mov)
-
+[Click here to watch the video](
+https://github.com/user-attachments/assets/3b2fad4f-3848-44d9-a1dc-567fdfeb42de
+)
 
 ## Setup
 Clone the repository and install dependecies:
